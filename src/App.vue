@@ -5,4 +5,5 @@ import headerComponent from "./components/header.vue";
 <template>
   <headerComponent />
   <router-view />
+  <headerComponent />
 </template>
